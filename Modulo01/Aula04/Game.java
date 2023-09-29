@@ -8,6 +8,8 @@ public class Game {
         player.perderVida();
         
         player.perderVida();
+        
+        player.perderVida();
 
         player.ganharVida();
 
